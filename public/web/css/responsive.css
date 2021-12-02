@@ -1,0 +1,104 @@
+@media only screen and (max-width: 1400px) {
+    
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /****Ipad Portrait 768 Container 724 ****/
+	       
+}
+
+@media only screen and (max-width: 767px) {
+    /****Mobile Landscape 480 Container 100% ****/
+	.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+    position: absolute;
+    top: -102px;
+    right: 0;
+    z-index: 9999;
+}
+.newsdiv{
+min-height: 300px;
+}
+    .footer-nav li  {
+        line-height: 32px;
+    }
+    .o-margin  {
+        margin: 0px 0;
+    }
+    header {
+    background: #000 !important;
+    position: inherit;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+    .carousel-caption {
+    bottom: 8%;
+}
+    .carousel-caption h3 {
+    font-size: 18px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+}
+    .carousel-caption h3 {
+    font-size: 18px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+}
+    .innovation-list li {
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 0 4px;
+    border-right: 2px solid #EE3342;
+}
+    .innovation-list {
+    margin: 0px auto;
+    text-align: center;
+    padding: 31px 0 50px;
+}
+    .footer-social {
+    margin-bottom: 0px;
+    text-align: -webkit-center;
+}
+    .copyright {
+    color: #b2bdcb;
+    font-size: 12px;
+    margin-top: 8px;
+    text-align: -webkit-center;
+}
+.nav>li {
+    position: relative;
+    display: block;
+    background: aliceblue;
+    margin-bottom: 2px;
+    color: #000;
+}
+.navbar-inverse .navbar-nav>li>a  {
+        color: #000;
+} 
+.footer-logo  {
+    float: none;
+    margin-top: 15px;
+}    
+}
+
+@media only screen and (max-width: 479px) {
+    /****Mobile Portrait 320 ****/
+       .navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+    position: absolute;
+    top: -102px;
+    right: 0;
+    z-index: 9999;
+}
+}
+
